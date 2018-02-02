@@ -1,0 +1,160 @@
+body {
+  background-color: #D1CAC6;
+}
+
+#présentation {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  text-align: center;
+  width: 40vw;
+  height: auto;
+  margin: 2% auto auto auto;
+  border-radius: 5px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #999491;
+}
+
+#présentation img {
+  border-radius: 50%;
+  border: 4px solid #BFBFBF;
+}
+
+#présentation h1 {
+  color: #C43933;
+}
+
+#présentation p {
+  text-align: justify;
+  margin: auto 4% auto 4%;
+  padding-bottom: 5%;
+}
+
+#présentation a {
+  border: 3px solid #C43933;
+  padding: 2% 2% 2% 2%;
+  border-radius: 5px;
+  background-color: #C43933;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#social {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  border-radius: 5px;
+  color: #999491;
+  width: 40vw;
+  height: 20vh;
+  margin: 1% auto auto auto;
+  display: flex;
+
+}
+
+#social ul {
+  display: inline-flex;
+  text-align: center;
+  margin: auto;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-between;
+}
+
+#social li {
+  padding: 2vw;
+}
+
+#social a {
+  color: #BFBFBF;
+  font-size: 20px;
+  margin: auto;
+  text-decoration: none;
+}
+
+#films {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  border-radius: 5px;
+  color: #999491;
+  width: 40vw;
+  height: auto;
+  margin: 1% auto 30px auto;
+  font-size: 15px;
+  text-align: center;
+}
+
+#favorite {
+  text-align: center;
+  margin: auto;
+  padding: 40px 20px 15px 20px;
+  font-size: 18px;
+}
+
+mark {
+  background-color: #D1CAC6;
+  color: #999491;
+}
+
+#oddysey {
+  margin: auto;
+  padding: 20px;
+  display: flex;
+}
+
+
+#oddyseyimage img {
+  height: 20vh;
+  width: auto;
+  margin: auto;
+}
+
+#oddyseydesc {
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.justify {
+  text-align: justify;
+}
+
+#vacances {
+  margin: auto;
+  padding: 20px;
+  display: flex;
+}
+
+#vacancesimage img {
+  height: 20vh;
+  width: auto;
+  margin: auto;
+}
+
+#vacancesdesc {
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+#alien {
+  margin: auto;
+  padding: 20px;
+  display: flex;
+}
+
+#alienimage img {
+  height: 20vh;
+  width: auto;
+  margin: auto;
+}
+
+#aliendesc {
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.nomfilm{
+  font-size: 17px;
+}
